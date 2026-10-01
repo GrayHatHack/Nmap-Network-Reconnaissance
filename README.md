@@ -52,7 +52,7 @@ To gather intelligence on the underlying target system architecture and TCP/IP s
   ![Port Scan Output](Screenshot%202026-10-01%20174556.png)
 
 ### OS Fingerprinting & Stack Analysis Output
-![OS Detection Output](Screenshot%202026-10-01%20175700.png)
+![OS Detection Output](Screenshot%202026-10-01%20185024.png)
 
 ---
 
