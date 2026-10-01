@@ -47,5 +47,17 @@ To gather intelligence on the underlying target system architecture and TCP/IP s
   ```
 
 ### 📸 Screenshots & Visual Proof
-* **Port & Service Version Detection Output** 
+
+### Port & Service Version Detection Output
+  ![Port Scan Output](Screenshot-2026-10-01-174556.png)
+
+### OS Fingerprinting & Stack Analysis Output
+![OS Detection Output](Screenshot-2026-10-01-175700.png)
+
+---
+
+## 📈 Key Learnings & Takeaways
+1. **Stealth Auditing:** Learned how SYN scans (`-sS`) optimize footprint reduction during network evaluations.
+2. **Service Mapping:** Gained hands-on experience in detecting service signatures and potential version vulnerabilities.
+3. **OS Intelligence:** Understood how remote network stack fingerprinting works during security assessments.
   
