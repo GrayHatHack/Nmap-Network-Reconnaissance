@@ -38,3 +38,14 @@ To identify active services without triggering heavy alerts, a stealth SYN scan 
   * Port 80/tcp (Open - Apache httpd 2.4.7)
 
   * Port 443/tcp (Filtered - HTTPS)    
+### Step 3: Operating System (OS) Fingerprinting
+To gather intelligence on the underlying target system architecture and TCP/IP stack behavior.
+
+* **Command Used:**
+  ```bash
+  sudo nmap -O -T4 scanme.nmap.org
+  ```
+
+### 📸 Screenshots & Visual Proof
+* **Port & Service Version Detection Output** 
+  
